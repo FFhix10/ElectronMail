@@ -227,7 +227,7 @@
     "sanitize-html": "2.5.2",
     "sass": "1.32.13",
     "sass-loader": "12.2.0",
-    "semver": "7.3.5",
+    "semver": "7.5.2",
     "serialize-error": "8.1.0",
     "sinon": "11.1.2",
     "terser-webpack-plugin": "5.2.4",
