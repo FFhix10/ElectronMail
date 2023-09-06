@@ -173,7 +173,7 @@
     "cross-env": "7.0.3",
     "css-loader": "6.4.0",
     "dts-generator": "3.0.0",
-    "electron": "15.3.0",
+    "electron": "22.3.21",
     "electron-builder": "22.14.3",
     "electron-fetch": "1.7.4",
     "electron-log": "4.4.1",
